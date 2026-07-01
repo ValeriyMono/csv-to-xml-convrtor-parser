@@ -4487,13 +4487,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "the_presence_of_a_mirror",
-    "label-uk_UA": "Наявність дзеркала",
-    "type": "pim_catalog_boolean",
-    "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "number_of_candles_pcs",
     "label-uk_UA": "Кількість вміщуваних свічок, шт",
     "type": "pim_catalog_simpleselect",
@@ -5043,13 +5036,6 @@
     "code": "diameter_of_bag",
     "label-uk_UA": "Діаметр мішка",
     "type": "pim_catalog_simpleselect",
-    "group": "size",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "size_mattress",
-    "label-uk_UA": "Розмір матрацу",
-    "type": "pim_catalog_text",
     "group": "size",
     "guidelines-ru_RU": ""
   },
@@ -8726,13 +8712,6 @@
     "label-uk_UA": "Тип",
     "type": "pim_catalog_simpleselect",
     "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "thermometers_functions",
-    "label-uk_UA": "Функції",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
     "guidelines-ru_RU": ""
   },
   {
@@ -18221,13 +18200,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "face_creams_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "face_creams_time_application",
     "label-uk_UA": "Час застосування",
     "type": "pim_catalog_simpleselect",
@@ -18466,13 +18438,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "cleansing_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "cleansing_time_application",
     "label-uk_UA": "Час застосування",
     "type": "pim_catalog_simpleselect",
@@ -18491,13 +18456,6 @@
     "label-uk_UA": "Вид",
     "type": "pim_catalog_multiselect",
     "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "oils_serums_and_essences_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
     "guidelines-ru_RU": ""
   },
   {
@@ -18536,13 +18494,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "face_masks_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "face_masks_time_application",
     "label-uk_UA": "Час застосування",
     "type": "pim_catalog_simpleselect",
@@ -18578,13 +18529,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "eye_care_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "eye_care_time_application",
     "label-uk_UA": "Час застосування",
     "type": "pim_catalog_simpleselect",
@@ -18599,38 +18543,10 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "lip_care_view",
-    "label-uk_UA": "Вид",
-    "type": "pim_catalog_multiselect",
-    "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "lip_care_shade",
-    "label-uk_UA": "Відтінок",
-    "type": "pim_catalog_boolean",
-    "group": "physical_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "lip_care_sun_protection_factor_spf",
-    "label-uk_UA": "Ступінь захисту (SPF)",
-    "type": "pim_catalog_simpleselect",
-    "group": "physical_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "cosmetics_volume_product",
-    "label-uk_UA": "Об'єм засобу",
+    "label-uk_UA": "Об'єм засобу, мл/г",
     "type": "pim_catalog_simpleselect",
     "group": "range_from_to",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "makeup_removal_view",
-    "label-uk_UA": "Вид",
-    "type": "pim_catalog_multiselect",
-    "group": "main_characteristics",
     "guidelines-ru_RU": ""
   },
   {
@@ -18664,13 +18580,6 @@
   {
     "code": "audiointerfaces_bit_cap",
     "label-uk_UA": "Розрядність ЦАП",
-    "type": "pim_catalog_simpleselect",
-    "group": "technology_communications",
-    "guidelines-ru_RU": "Можливі інші варіанти"
-  },
-  {
-    "code": "audiointerfaces_sample_rate",
-    "label-uk_UA": "Частота дискретизації",
     "type": "pim_catalog_simpleselect",
     "group": "technology_communications",
     "guidelines-ru_RU": "Можливі інші варіанти"
@@ -18886,13 +18795,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "for_the_shower_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "for_the_shower_age",
     "label-uk_UA": "Вік",
     "type": "pim_catalog_simpleselect",
@@ -18904,13 +18806,6 @@
     "label-uk_UA": "Вид",
     "type": "pim_catalog_multiselect",
     "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "for_the_bath_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
     "guidelines-ru_RU": ""
   },
   {
@@ -19019,13 +18914,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "for_body_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "for_body_sun_protection_factor_spf",
     "label-uk_UA": "Ступінь захисту (SPF)",
     "type": "pim_catalog_simpleselect",
@@ -19051,13 +18939,6 @@
     "label-uk_UA": "Ефект",
     "type": "pim_catalog_multiselect",
     "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "for_hands_and_feet_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
     "guidelines-ru_RU": ""
   },
   {
@@ -19159,27 +19040,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "deodorants_and_antiperspirants_view",
-    "label-uk_UA": "Вид",
-    "type": "pim_catalog_simpleselect",
-    "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "deodorants_and_antiperspirants_form",
-    "label-uk_UA": "Форма",
-    "type": "pim_catalog_multiselect",
-    "group": "physical_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "deodorants_and_antiperspirants_gender",
-    "label-uk_UA": "Гендер",
-    "type": "pim_catalog_simpleselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "for_oral_cavity_view",
     "label-uk_UA": "Вид",
     "type": "pim_catalog_multiselect",
@@ -19230,27 +19090,6 @@
   },
   {
     "code": "shampoos_hair_type",
-    "label-uk_UA": "Тип волосся",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "balms_and_conditioners_view",
-    "label-uk_UA": "Вид",
-    "type": "pim_catalog_multiselect",
-    "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "balms_and_conditioners_effect",
-    "label-uk_UA": "Ефект",
-    "type": "pim_catalog_multiselect",
-    "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "balms_and_conditioners_hair_type",
     "label-uk_UA": "Тип волосся",
     "type": "pim_catalog_multiselect",
     "group": "additionally",
@@ -19402,55 +19241,6 @@
     "type": "pim_catalog_multiselect",
     "group": "technology_communications",
     "guidelines-ru_RU": "Можливі інші варіанти"
-  },
-  {
-    "code": "hair_masks_scope_application",
-    "label-uk_UA": "Область застосування",
-    "type": "pim_catalog_simpleselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "hair_masks_effect",
-    "label-uk_UA": "Ефект",
-    "type": "pim_catalog_multiselect",
-    "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "hair_masks_hair_type",
-    "label-uk_UA": "Тип волосся",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "scrubs_and_peels_view",
-    "label-uk_UA": "Вид",
-    "type": "pim_catalog_simpleselect",
-    "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "scrubs_and_peels_form",
-    "label-uk_UA": "Форма",
-    "type": "pim_catalog_multiselect",
-    "group": "physical_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "scrubs_and_peels_effect",
-    "label-uk_UA": "Ефект",
-    "type": "pim_catalog_multiselect",
-    "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "scrubs_and_peels_hair_type",
-    "label-uk_UA": "Тип волосся",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
   },
   {
     "code": "hair_oils_scope_application",
@@ -19754,20 +19544,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "thermal_protection_view",
-    "label-uk_UA": "Вид",
-    "type": "pim_catalog_multiselect",
-    "group": "main_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "thermal_protection_hair_type",
-    "label-uk_UA": "Тип волосся",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "painting_view",
     "label-uk_UA": "Вид",
     "type": "pim_catalog_multiselect",
@@ -19814,13 +19590,6 @@
     "label-uk_UA": "Ступінь захисту (SPF)",
     "type": "pim_catalog_simpleselect",
     "group": "physical_characteristics",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "sun_protection_face_skin_type",
-    "label-uk_UA": "Тип шкіри",
-    "type": "pim_catalog_multiselect",
-    "group": "additionally",
     "guidelines-ru_RU": ""
   },
   {
@@ -34146,20 +33915,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "mattras_width",
-    "label-uk_UA": "Ширина матрацу",
-    "type": "pim_catalog_text",
-    "group": "size",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "mattras_length",
-    "label-uk_UA": "Довжина матрацу",
-    "type": "pim_catalog_text",
-    "group": "size",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "range_mattras_length",
     "label-uk_UA": "Довжина матрацу",
     "type": "pim_catalog_simpleselect",
@@ -34857,14 +34612,14 @@
     "label-uk_UA": "Метал",
     "type": "pim_catalog_simpleselect",
     "group": "main_characteristics",
-    "guidelines-ru_RU": ""
+    "guidelines-ru_RU": "Якщо метал - це покриття/плакування (\"Покриття золотом\", \"Сплав з покриттям 14k золотом\") - обирай \"Металевий сплав з позолотою\", а не цільний метал.»"
   },
   {
     "code": "jewelry_sample",
     "label-uk_UA": "Проба",
     "type": "pim_catalog_simpleselect",
     "group": "main_characteristics",
-    "guidelines-ru_RU": ""
+    "guidelines-ru_RU": "Проба - лише для виробів із цільного дорогоцінного металу.  \nДля плакованих/з покриттям - обирай \"Без проби\". Карат покриття (14k) ≠ проба основи.»"
   },
   {
     "code": "jewelry_metal_color",
@@ -37968,13 +37723,6 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "furniture_topper_size",
-    "label-uk_UA": "Розмір",
-    "type": "pim_catalog_simpleselect",
-    "group": "main",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "furniture_drawers_count",
     "label-uk_UA": "Кількість шухляд",
     "type": "pim_catalog_simpleselect",
@@ -38052,15 +37800,8 @@
     "guidelines-ru_RU": ""
   },
   {
-    "code": "furniture_topper_type",
-    "label-uk_UA": "Тип",
-    "type": "pim_catalog_simpleselect",
-    "group": "main",
-    "guidelines-ru_RU": ""
-  },
-  {
     "code": "furniture_door_type",
-    "label-uk_UA": "Тип дверей",
+    "label-uk_UA": "Тип дверцят",
     "type": "pim_catalog_simpleselect",
     "group": "main",
     "guidelines-ru_RU": ""
@@ -38130,7 +37871,7 @@
   },
   {
     "code": "furniture_kids_age_max_months",
-    "label-uk_UA": "Вік до (місяців)",
+    "label-uk_UA": "Вік до",
     "type": "pim_catalog_simpleselect",
     "group": "parametrs",
     "guidelines-ru_RU": ""
@@ -38152,13 +37893,6 @@
   {
     "code": "furniture_table_seats_count",
     "label-uk_UA": "Кількість осіб",
-    "type": "pim_catalog_simpleselect",
-    "group": "parametrs",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "furniture_kids_storage_volume",
-    "label-uk_UA": "Об'єм (л)",
     "type": "pim_catalog_simpleselect",
     "group": "parametrs",
     "guidelines-ru_RU": ""
@@ -38202,7 +37936,7 @@
     "code": "furniture_length_cm",
     "label-uk_UA": "Довжина (см)",
     "type": "pim_catalog_text",
-    "group": "main_characteristics",
+    "group": "size",
     "guidelines-ru_RU": ""
   },
   {
@@ -38229,13 +37963,6 @@
   {
     "code": "furniture_table_height_adjustable",
     "label-uk_UA": "Регулювання висоти",
-    "type": "pim_catalog_boolean",
-    "group": "parametrs",
-    "guidelines-ru_RU": ""
-  },
-  {
-    "code": "furniture_machine_washable",
-    "label-uk_UA": "Можна прати в машині",
     "type": "pim_catalog_boolean",
     "group": "parametrs",
     "guidelines-ru_RU": ""
@@ -38503,7 +38230,7 @@
     "code": "car_lamps_bulb_color",
     "label-uk_UA": "Колір колби",
     "type": "pim_catalog_simpleselect",
-    "group": "main_characteristics",
+    "group": "main",
     "guidelines-ru_RU": ""
   },
   {
@@ -38755,7 +38482,7 @@
     "code": "car_xenon_lamps_kind",
     "label-uk_UA": "Вид",
     "type": "pim_catalog_simpleselect",
-    "group": "main_characteristics",
+    "group": "main",
     "guidelines-ru_RU": ""
   },
   {
@@ -41913,6 +41640,6341 @@
     "label-uk_UA": "Особливості",
     "type": "pim_catalog_text",
     "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "elbow_pads_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "elbow_pads_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "elbow_pads_gender",
+    "label-uk_UA": "Стать",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "elbow_pads_quantity_per_pack_pcs",
+    "label-uk_UA": "Кількість у комплекті, шт",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "elbow_pads_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "elbow_pads_size",
+    "label-uk_UA": "Розмір",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "elbow_pads_fastening_type",
+    "label-uk_UA": "Тип фіксації",
+    "type": "pim_catalog_multiselect",
+    "group": "technical_parameters",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "elbow_pads_features",
+    "label-uk_UA": "Особливості",
+    "type": "pim_catalog_text",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "elbow_pads_user_side",
+    "label-uk_UA": "Сторона використання",
+    "type": "pim_catalog_simpleselect",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lower_leg_and_foot_protection_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lower_leg_and_foot_protection_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lower_leg_and_foot_protection_size",
+    "label-uk_UA": "Розмір",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lower_leg_and_foot_protection_adjustable_size",
+    "label-uk_UA": "Регульований розмір",
+    "type": "pim_catalog_boolean",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lower_leg_and_foot_protection_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lower_leg_and_foot_protection_fastening_type",
+    "label-uk_UA": "Тип фіксації",
+    "type": "pim_catalog_multiselect",
+    "group": "technical_parameters",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lower_leg_and_foot_protection_features",
+    "label-uk_UA": "Особливості",
+    "type": "pim_catalog_text",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_type",
+    "label-uk_UA": "Вид",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_gender",
+    "label-uk_UA": "Стать",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_age_group",
+    "label-uk_UA": "Вікова група",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_number_of_items_in_the_set_pcs",
+    "label-uk_UA": "Кількість предметів у комплекті, шт",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_level_of_protection",
+    "label-uk_UA": "Рівень захисту",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_size",
+    "label-uk_UA": "Розмір",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_outer_material",
+    "label-uk_UA": "Матеріал зовнішньої частини",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_lining_material",
+    "label-uk_UA": "Матеріал підкладки",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_fastening_type",
+    "label-uk_UA": "Тип фіксації",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_protection_rigidity",
+    "label-uk_UA": "Жорсткість захисту",
+    "type": "pim_catalog_simpleselect",
+    "group": "technical_parameters",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "protection_kits_features",
+    "label-uk_UA": "Особливості",
+    "type": "pim_catalog_text",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "espanders_view",
+    "label-uk_UA": "Вид",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "beauty_product_volume",
+    "label-uk_UA": "Об'єм засобу",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mattras_size",
+    "label-uk_UA": "Розмір матрацу",
+    "type": "pim_catalog_simpleselect",
+    "group": "size",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_view",
+    "label-uk_UA": "Вид",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_number_of_keys",
+    "label-uk_UA": "Кількість клавіш",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_keyboard_type",
+    "label-uk_UA": "Тип клавіатури",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_number_of_built_in_sounds",
+    "label-uk_UA": "Кількість вбудованих тембрів",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_polyphony",
+    "label-uk_UA": "Поліфонія",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_power_supply",
+    "label-uk_UA": "Живлення",
+    "type": "pim_catalog_multiselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_number_of_pedals",
+    "label-uk_UA": "Кількість педалей",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_built_in_pedals",
+    "label-uk_UA": "Вбудовані педалі",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_number_of_speakers",
+    "label-uk_UA": "Кількість динаміків",
+    "type": "pim_catalog_simpleselect",
+    "group": "technical_parameters",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_ports_and_connectors",
+    "label-uk_UA": "Порти та роз'єми",
+    "type": "pim_catalog_multiselect",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_wireless_technologies",
+    "label-uk_UA": "Бездротові технології",
+    "type": "pim_catalog_multiselect",
+    "group": "technology_communications",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_features",
+    "label-uk_UA": "Особливості",
+    "type": "pim_catalog_text",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_housing_material",
+    "label-uk_UA": "Матеріал корпусу",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "digital_pianos_keycaps",
+    "label-uk_UA": "Покриття клавіш",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "beauty_count_pcs",
+    "label-uk_UA": "Кількість в упаковці",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "range_beauty_count_pcs",
+    "label-uk_UA": "Кількість в упаковці",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "beauty_shade",
+    "label-uk_UA": "Відтінок",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audiointerfaces_sample_rates",
+    "label-uk_UA": "Частота дискретизації",
+    "type": "pim_catalog_multiselect",
+    "group": "technology_communications",
+    "guidelines-ru_RU": "Можливі інші варіанти"
+  },
+  {
+    "code": "mattras_type",
+    "label-uk_UA": "Тип матраца",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mattras_spring_type",
+    "label-uk_UA": "Тип пружинного блоку",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mattras_filling",
+    "label-uk_UA": "Матеріал наповнювача",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mattras_cover_material",
+    "label-uk_UA": "Матеріал чохла",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mattras_features",
+    "label-uk_UA": "Особливості",
+    "type": "pim_catalog_multiselect",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mattras_removable_cover",
+    "label-uk_UA": "Знімний чохол",
+    "type": "pim_catalog_boolean",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "child_bike_seats_placement",
+    "label-uk_UA": "Розташування",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "child_bike_seats_mounting_type",
+    "label-uk_UA": "Тип кріплення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "child_bike_seats_max_child_weight_kg",
+    "label-uk_UA": "Максимальна вага дитини, кг",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "child_bike_seats_type_belts",
+    "label-uk_UA": "Тип ременів",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "child_bike_seats_seat_tube_diameter_mm",
+    "label-uk_UA": "Діаметр підсідельної труби, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pregnancy_pillows_shape",
+    "label-uk_UA": "Форма",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pregnancy_pillows_fill_material",
+    "label-uk_UA": "Наповнювач",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pregnancy_pillows_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pregnancy_pillows_size",
+    "label-uk_UA": "Розмір",
+    "type": "pim_catalog_simpleselect",
+    "group": "size",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pregnancy_pillows_length_from_to",
+    "label-uk_UA": "Довжина (Від-До)",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pregnancy_pillows_width_from_to",
+    "label-uk_UA": "Ширина (Від-До)",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "camera_batteries_compatible_brand",
+    "label-uk_UA": "Сумісний бренд камери",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "camera_batteries_battery_origin",
+    "label-uk_UA": "Тип акумулятора",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "camera_batteries_voltage_v",
+    "label-uk_UA": "Напруга, В",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "range_camera_batteries_capacity_mah",
+    "label-uk_UA": "Ємність акумулятора, мАг",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "camera_batteries_model",
+    "label-uk_UA": "Модель акумулятора",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "camera_batteries_max_discharge_current_a",
+    "label-uk_UA": "Макс. струм розряду, А",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "camera_batteries_capacity_mah",
+    "label-uk_UA": "Ємність акумулятора, мАг",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "camera_batteries_compatible_cameras",
+    "label-uk_UA": "Сумісні моделі камер",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "video_surveillance_accessories_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "video_surveillance_accessories_cable_length",
+    "label-uk_UA": "Довжина кабелю, м",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "video_surveillance_accessories_degree_protections",
+    "label-uk_UA": "Ступінь захисту (IP)",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "video_surveillance_accessories_operating_voltage",
+    "label-uk_UA": "Робоча напруга",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_diagonal",
+    "label-uk_UA": "Діагональ",
+    "type": "pim_catalog_simpleselect",
+    "group": "display",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_resolution",
+    "label-uk_UA": "Роздільна здатність",
+    "type": "pim_catalog_simpleselect",
+    "group": "display",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_orientation",
+    "label-uk_UA": "Орієнтація",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_panel_type",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "display",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_connectivity",
+    "label-uk_UA": "Інтерфейс підключення",
+    "type": "pim_catalog_multiselect",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_installation",
+    "label-uk_UA": "Місце встановлення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_power_consumption",
+    "label-uk_UA": "Енергоспоживання, Вт",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_refresh_rate",
+    "label-uk_UA": "Частота оновлення, Гц",
+    "type": "pim_catalog_simpleselect",
+    "group": "display",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_sound_power_w",
+    "label-uk_UA": "Потужність звуку, Вт",
+    "type": "pim_catalog_simpleselect",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "information_displays_smart_features",
+    "label-uk_UA": "Smart-функції",
+    "type": "pim_catalog_multiselect",
+    "group": "additionally",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "range_information_displays_diagonal",
+    "label-uk_UA": "Діагональ",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "energy_storage_accessories_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "energy_storage_accessories_compatible_brand",
+    "label-uk_UA": "Сумісний бренд",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "energy_storage_accessories_interface",
+    "label-uk_UA": "Інтерфейс підключення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_equipment_accessories_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_equipment_accessories_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_equipment_accessories_material",
+    "label-uk_UA": "Матеріал корпусу",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_equipment_accessories_foam_type",
+    "label-uk_UA": "Тип наповнювача",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_equipment_accessories_protection_ip",
+    "label-uk_UA": "Ступінь захисту",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_equipment_accessories_lock_type",
+    "label-uk_UA": "Тип замка",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_equipment_accessories_max_load",
+    "label-uk_UA": "Максимальне навантаження, кг",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "range_audio_equipment_accessories_length",
+    "label-uk_UA": "Зовнішня довжина, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "range_audio_equipment_accessories_width",
+    "label-uk_UA": "Зовнішня ширина, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "range_audio_equipment_accessories_height",
+    "label-uk_UA": "Зовнішня висота, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_equipment_accessories_wheels",
+    "label-uk_UA": "Колеса",
+    "type": "pim_catalog_boolean",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_cables_type",
+    "label-uk_UA": "Тип кабелю",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_cables_connector_a",
+    "label-uk_UA": "Роз'єм 1",
+    "type": "pim_catalog_simpleselect",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_cables_connector_b",
+    "label-uk_UA": "Роз'єм 2",
+    "type": "pim_catalog_simpleselect",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_cables_signal_type",
+    "label-uk_UA": "Тип сигналу",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_cables_conductors",
+    "label-uk_UA": "Кількість жил",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_cables_conductor_material",
+    "label-uk_UA": "Матеріал жили",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_cables_cross_section",
+    "label-uk_UA": "Переріз, мм²",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "audio_cables_length",
+    "label-uk_UA": "Довжина, м",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "range_audio_cables_length",
+    "label-uk_UA": "Довжина, м",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "av_cables_type",
+    "label-uk_UA": "Тип пристрою",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "av_cables_connector_a",
+    "label-uk_UA": "Роз'єм 1",
+    "type": "pim_catalog_simpleselect",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "av_cables_connector_b",
+    "label-uk_UA": "Роз'єм 2",
+    "type": "pim_catalog_simpleselect",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "av_cables_standard",
+    "label-uk_UA": "Стандарт / версія",
+    "type": "pim_catalog_simpleselect",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "av_cables_ports_qty",
+    "label-uk_UA": "Кількість портів",
+    "type": "pim_catalog_simpleselect",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "av_cables_hdr_support",
+    "label-uk_UA": "Підтримка HDR",
+    "type": "pim_catalog_boolean",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "av_cables_arc_support",
+    "label-uk_UA": "Підтримка ARC / eARC",
+    "type": "pim_catalog_boolean",
+    "group": "ports_connectors",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "av_cables_length",
+    "label-uk_UA": "Довжина, м",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "range_av_cables_length",
+    "label-uk_UA": "Довжина, м",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "door_closers_mechanism",
+    "label-uk_UA": "Механізм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "door_closers_door_type",
+    "label-uk_UA": "Тип дверей",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "door_closers_max_door_weight",
+    "label-uk_UA": "Макс. вага дверей, кг",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "range_door_closers_max_door_weight",
+    "label-uk_UA": "Макс. вага дверей, кг",
+    "type": "pim_catalog_simpleselect",
+    "group": "range_from_to",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "door_closers_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "door_closers_max_door_width",
+    "label-uk_UA": "Макс. ширина дверей, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "door_closers_arm_type",
+    "label-uk_UA": "Тип тяги",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "door_closers_max_opening_angle",
+    "label-uk_UA": "Макс. кут відкриття, °",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "door_closers_lifecycle",
+    "label-uk_UA": "Ресурс відкриттів",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "photo_accessories_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "photo_accessories_compatible_brand",
+    "label-uk_UA": "Сумісний бренд камери",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "photo_accessories_wireless_standard",
+    "label-uk_UA": "Бездротові технології",
+    "type": "pim_catalog_multiselect",
+    "group": "technology_communications",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "photo_accessories_storage_capacity",
+    "label-uk_UA": "Ємність накопичувача",
+    "type": "pim_catalog_simpleselect",
+    "group": "memory",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "photo_accessories_compatible_cameras",
+    "label-uk_UA": "Сумісні моделі камер",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "abrasives_grit",
+    "label-uk_UA": "Зернистість",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "abrasives_mount_type",
+    "label-uk_UA": "Тип кріплення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "abrasives_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "abrasives_size",
+    "label-uk_UA": "Розмір/діаметр",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "abrasives_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "accessory_sets_case_type",
+    "label-uk_UA": "Тип кейса",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "accessory_sets_items_count",
+    "label-uk_UA": "Кількість предметів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "accessory_sets_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "accessory_sets_set_composition",
+    "label-uk_UA": "Склад набору",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_angle_grinders_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_angle_grinders_diameter_disc",
+    "label-uk_UA": "Діаметр диска",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_angle_grinders_orbit",
+    "label-uk_UA": "Орбіта",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_angle_grinders_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_angle_grinders_type_sanding_base",
+    "label-uk_UA": "Тип шліфувальної підошви",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_angle_grinders_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_blow_guns_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_blow_guns_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_blow_guns_type_nozzle",
+    "label-uk_UA": "Тип сопла",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_blow_guns_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_compressors_capacity_inlet",
+    "label-uk_UA": "Продуктивність на вході",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_compressors_capacity_outlet",
+    "label-uk_UA": "Продуктивність на виході",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_compressors_level_noise",
+    "label-uk_UA": "Рівень шуму",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_compressors_max_pressure",
+    "label-uk_UA": "Макс. тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_compressors_number_cylinders",
+    "label-uk_UA": "К-сть циліндрів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_compressors_type_drive",
+    "label-uk_UA": "Тип приводу",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_compressors_type_oil",
+    "label-uk_UA": "Тип масла",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_compressors_volume_receiver",
+    "label-uk_UA": "Об'єм ресивера",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_drills_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_drills_diameter_chuck",
+    "label-uk_UA": "Діаметр патрона",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_drills_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_drills_speed_rotation",
+    "label-uk_UA": "Швидкість обертання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_drills_torque",
+    "label-uk_UA": "Крутний момент (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_drills_type_chuck",
+    "label-uk_UA": "Тип патрона",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_drills_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_fittings_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_fittings_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_fittings_type_connection",
+    "label-uk_UA": "Тип з'єднання",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_fittings_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_hoses_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_hoses_inner_diameter",
+    "label-uk_UA": "Внутрішній діаметр",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_hoses_length",
+    "label-uk_UA": "Довжина",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_hoses_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_hoses_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_impact_wrenches_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_impact_wrenches_diameter_chuck",
+    "label-uk_UA": "Діаметр патрона",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_impact_wrenches_max_torque",
+    "label-uk_UA": "Макс. крутний момент",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_impact_wrenches_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_impact_wrenches_size_drive",
+    "label-uk_UA": "Розмір квадрата",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_impact_wrenches_speed_rotation",
+    "label-uk_UA": "Швидкість обертання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_impact_wrenches_torque",
+    "label-uk_UA": "Крутний момент (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_impact_wrenches_type_chuck",
+    "label-uk_UA": "Тип патрона",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_impact_wrenches_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_jackhammers_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_jackhammers_energy_impact",
+    "label-uk_UA": "Енергія удару",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_jackhammers_frequency_impact",
+    "label-uk_UA": "Частота ударів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_jackhammers_modes_operation",
+    "label-uk_UA": "Режими роботи",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_jackhammers_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_jackhammers_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_riveters_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_riveters_compatible_staple_rivet",
+    "label-uk_UA": "Сумісні скоби / заклепки (тип)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_riveters_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_riveters_size_staple_rivet",
+    "label-uk_UA": "Розмір скоб / заклепок",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_riveters_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_riveters_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_sanders_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_sanders_diameter_disc",
+    "label-uk_UA": "Діаметр диска",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_sanders_orbit",
+    "label-uk_UA": "Орбіта",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_sanders_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_sanders_type_sanding_base",
+    "label-uk_UA": "Тип шліфувальної підошви",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_sanders_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_spray_guns_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_spray_guns_diameter_nozzle",
+    "label-uk_UA": "Діаметр сопла",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_spray_guns_position_tank",
+    "label-uk_UA": "Розташування бачка",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_spray_guns_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_spray_guns_type_spray",
+    "label-uk_UA": "Тип розпилення (HVLP/LVLP)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_spray_guns_volume_tank",
+    "label-uk_UA": "Об'єм бачка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_spray_guns_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_staplers_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_staplers_compatible_staple_rivet",
+    "label-uk_UA": "Сумісні скоби / заклепки (тип)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_staplers_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_staplers_size_staple_rivet",
+    "label-uk_UA": "Розмір скоб / заклепок",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_staplers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_staplers_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_parts_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_parts_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_parts_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_sets_airflow_air",
+    "label-uk_UA": "Витрата повітря",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_sets_compatibility_system",
+    "label-uk_UA": "Сумісність системи (наприклад L-Boxx, MakPac)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_sets_inner_volume",
+    "label-uk_UA": "Внутрішній об'єм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_sets_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_sets_number_compartments_pockets",
+    "label-uk_UA": "К-сть відділень / кишень",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_sets_number_items_set",
+    "label-uk_UA": "К-сть предметів у наборі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_sets_size_connection",
+    "label-uk_UA": "Розмір з'єднання (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_sets_water_protection",
+    "label-uk_UA": "Водозахист (IP/IPX)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "air_tool_sets_working_pressure",
+    "label-uk_UA": "Робочий тиск",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "angle_finders_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "angle_finders_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "angle_finders_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "angle_finders_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "angle_finders_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "angle_finders_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "angle_finders_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "awls_handle_material",
+    "label-uk_UA": "Матеріал руків'я",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "awls_length_mm",
+    "label-uk_UA": "Довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "awls_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "band_saws_max_size_workpiece",
+    "label-uk_UA": "Макс. розмір заготовки",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "band_saws_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "band_saws_size_working_table",
+    "label-uk_UA": "Розмір робочого столу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "band_saws_speed_rotation_spindle",
+    "label-uk_UA": "Швидкість обертання шпинделя",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "band_saws_type_machine",
+    "label-uk_UA": "Тип верстату",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "band_saws_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bar_clamps_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bar_clamps_max_clamping_mm",
+    "label-uk_UA": "Максимальний затиск, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bar_clamps_throat_depth_mm",
+    "label-uk_UA": "Глибина дуги, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bar_clamps_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bearings_inner_diameter_mm",
+    "label-uk_UA": "Внутрішній діаметр, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bearings_marking",
+    "label-uk_UA": "Стандарт/маркування",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bearings_outer_diameter_mm",
+    "label-uk_UA": "Зовнішній діаметр, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bearings_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bearings_width_mm",
+    "label-uk_UA": "Ширина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_grinders_diameter_discs",
+    "label-uk_UA": "Діаметр кругів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_grinders_max_size_workpiece",
+    "label-uk_UA": "Макс. розмір заготовки",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_grinders_number_discs",
+    "label-uk_UA": "К-сть кругів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_grinders_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_grinders_size_working_table",
+    "label-uk_UA": "Розмір робочого столу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_grinders_speed_rotation_spindle",
+    "label-uk_UA": "Швидкість обертання шпинделя",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_grinders_type_machine",
+    "label-uk_UA": "Тип верстату",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_grinders_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_vises_jaw_width_mm",
+    "label-uk_UA": "Ширина губок, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_vises_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_vises_max_opening_mm",
+    "label-uk_UA": "Максимальне розкриття, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bench_vises_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "blowtorches_power",
+    "label-uk_UA": "Потужність",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "blowtorches_temperature_range",
+    "label-uk_UA": "Температурний діапазон",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "blowtorches_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "blowtorches_type_tip_shape",
+    "label-uk_UA": "Тип жала / форма",
+    "type": "pim_catalog_text",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bolt_extractors_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bolt_extractors_size_range",
+    "label-uk_UA": "Діапазон розмірів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bolt_extractors_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bubble_levels_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bubble_levels_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bubble_levels_length",
+    "label-uk_UA": "Довжина",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bubble_levels_number_bulbs",
+    "label-uk_UA": "К-сть колб (вічок)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bubble_levels_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bubble_levels_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bubble_levels_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bubble_levels_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "bubble_levels_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cable_cutters_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cable_cutters_max_section_mm2",
+    "label-uk_UA": "Максимальний переріз, мм²",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cable_cutters_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cable_cutters_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cable_knives_blade_material",
+    "label-uk_UA": "Матеріал леза",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cable_knives_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cable_knives_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "calipers_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "calipers_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "calipers_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "calipers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "calipers_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "calipers_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "calipers_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "calipers_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "caulking_guns_cartridge_volume_ml",
+    "label-uk_UA": "Об'єм картриджа, мл",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "caulking_guns_compatible_materials",
+    "label-uk_UA": "Сумісні матеріали",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "caulking_guns_drive_type",
+    "label-uk_UA": "Тип приводу",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "caulking_guns_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "chisels_hand_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "chisels_hand_total_length_mm",
+    "label-uk_UA": "Загальна довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "chisels_hand_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "chisels_hand_working_width_mm",
+    "label-uk_UA": "Ширина робочої частини, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "circular_saw_blades_bore_diameter_mm",
+    "label-uk_UA": "Посадковий діаметр, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "circular_saw_blades_outer_diameter_mm",
+    "label-uk_UA": "Зовнішній діаметр, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "circular_saw_blades_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "circular_saw_blades_teeth_count",
+    "label-uk_UA": "Кількість зубів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "circular_saw_blades_teeth_material",
+    "label-uk_UA": "Матеріал зубів",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clamp_meters_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clamp_meters_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clamp_meters_diameter_grip",
+    "label-uk_UA": "Діаметр захвату",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clamp_meters_range_current",
+    "label-uk_UA": "Діапазон струму",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clamp_meters_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clamp_meters_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clamp_meters_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clamp_meters_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clamp_meters_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "combo_woodworking_machines_functions",
+    "label-uk_UA": "Функції",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "combo_woodworking_machines_max_size_workpiece",
+    "label-uk_UA": "Макс. розмір заготовки",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "combo_woodworking_machines_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "combo_woodworking_machines_size_working_table",
+    "label-uk_UA": "Розмір робочого столу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "combo_woodworking_machines_speed_rotation_spindle",
+    "label-uk_UA": "Швидкість обертання шпинделя",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "combo_woodworking_machines_type_machine",
+    "label-uk_UA": "Тип верстату",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "combo_woodworking_machines_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_mixers_number_speed_drum",
+    "label-uk_UA": "К-сть обертів барабана",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_mixers_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_mixers_type_drive",
+    "label-uk_UA": "Тип приводу",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_mixers_useful_volume",
+    "label-uk_UA": "Корисний об'єм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_mixers_volume_drum_bit",
+    "label-uk_UA": "Об'єм барабана/буру",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_vibrators_diameter_head",
+    "label-uk_UA": "Діаметр булави",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_vibrators_length_flexible_shaft",
+    "label-uk_UA": "Довжина гнучкого валу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_vibrators_number_speed_drum",
+    "label-uk_UA": "К-сть обертів барабана",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_vibrators_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_vibrators_type_drive",
+    "label-uk_UA": "Тип приводу",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_vibrators_useful_volume",
+    "label-uk_UA": "Корисний об'єм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "concrete_vibrators_volume_drum_bit",
+    "label-uk_UA": "Об'єм барабана/буру",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_buckets_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_buckets_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_buckets_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_buckets_volume",
+    "label-uk_UA": "Об'єм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_buckets_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_markers_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_markers_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_markers_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_markers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_markers_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_markers_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_markers_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_markers_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_templates_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_templates_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_templates_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_templates_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_templates_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_templates_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_templates_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "construction_templates_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cordless_riveters_battery_voltage_v",
+    "label-uk_UA": "Напруга акумулятора, В",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cordless_riveters_force_kn",
+    "label-uk_UA": "Зусилля, кН",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cordless_riveters_rivet_diameter_mm",
+    "label-uk_UA": "Діаметр заклепок, мм",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cordless_riveters_rivet_type",
+    "label-uk_UA": "Тип заклепок",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "crimpers_contact_type",
+    "label-uk_UA": "Тип контактів",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "crimpers_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "crimpers_section_range_mm2",
+    "label-uk_UA": "Діапазон перерізу, мм²",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "crimpers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cutting_discs_bore_diameter_mm",
+    "label-uk_UA": "Посадковий діаметр, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cutting_discs_outer_diameter_mm",
+    "label-uk_UA": "Зовнішній діаметр, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cutting_discs_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "cutting_discs_thickness_mm",
+    "label-uk_UA": "Товщина, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "diamond_discs_bore_diameter_mm",
+    "label-uk_UA": "Посадковий діаметр, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "diamond_discs_edge_type",
+    "label-uk_UA": "Тип кромки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "diamond_discs_outer_diameter_mm",
+    "label-uk_UA": "Зовнішній діаметр, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "diamond_discs_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_bits_masonry_diameter_mm",
+    "label-uk_UA": "Діаметр, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_bits_masonry_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_bits_masonry_shank_type",
+    "label-uk_UA": "Тип хвостовика",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_bits_masonry_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_bits_masonry_working_length_mm",
+    "label-uk_UA": "Робоча довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_chucks_clamping_range_mm",
+    "label-uk_UA": "Діапазон затиску, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_chucks_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_chucks_mount_type",
+    "label-uk_UA": "Тип посадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_chucks_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_presses_max_diameter_drilling",
+    "label-uk_UA": "Макс. діаметр свердління",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_presses_max_size_workpiece",
+    "label-uk_UA": "Макс. розмір заготовки",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_presses_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_presses_reach_spindle",
+    "label-uk_UA": "Виліт шпинделя",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_presses_size_working_table",
+    "label-uk_UA": "Розмір робочого столу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_presses_speed_rotation_spindle",
+    "label-uk_UA": "Швидкість обертання шпинделя",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_presses_type_machine",
+    "label-uk_UA": "Тип верстату",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drill_presses_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drywall_lifts_load_capacity_kg",
+    "label-uk_UA": "Вантажопідйомність, кг",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drywall_lifts_max_lift_height_m",
+    "label-uk_UA": "Максимальна висота підйому, м",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drywall_lifts_sheet_size",
+    "label-uk_UA": "Розмір листа",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "drywall_lifts_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electric_hoists_height_lift",
+    "label-uk_UA": "Висота підйому",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electric_hoists_load_capacity",
+    "label-uk_UA": "Вантажопідйомність",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electric_hoists_power",
+    "label-uk_UA": "Потужність",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electric_hoists_speed_lift",
+    "label-uk_UA": "Швидкість підйому",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electric_hoists_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electric_hoists_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electrode_holders_cable_section_mm2",
+    "label-uk_UA": "Переріз кабелю, мм²",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electrode_holders_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electrode_holders_max_current_a",
+    "label-uk_UA": "Максимальний струм, А",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "electrode_holders_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "engraver_accessories_accessory_type",
+    "label-uk_UA": "Тип насадки",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "engraver_accessories_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "engraver_accessories_set_quantity",
+    "label-uk_UA": "Кількість в наборі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "engraver_accessories_shank_diameter_mm",
+    "label-uk_UA": "Діаметр хвостовика, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "environment_meters_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "environment_meters_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "environment_meters_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "environment_meters_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "environment_meters_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "environment_meters_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "environment_meters_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "files_file_cut",
+    "label-uk_UA": "Насічка",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "files_length_mm",
+    "label-uk_UA": "Довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "files_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "files_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "glass_suction_cups_max_load_kg",
+    "label-uk_UA": "Максимальне навантаження, кг",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "glass_suction_cups_suction_diameter_mm",
+    "label-uk_UA": "Діаметр присоски, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "glass_suction_cups_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "glue_sticks_diameter_mm",
+    "label-uk_UA": "Діаметр, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "glue_sticks_length_mm",
+    "label-uk_UA": "Довжина, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "glue_sticks_pack_quantity",
+    "label-uk_UA": "Кількість в упаковці",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "glue_sticks_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "grease_guns_capacity_battery",
+    "label-uk_UA": "Ємність АКБ",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "grease_guns_compatible_staple_rivet",
+    "label-uk_UA": "Сумісні скоби / заклепки (тип)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "grease_guns_platform_battery",
+    "label-uk_UA": "Платформа АКБ",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "grease_guns_power",
+    "label-uk_UA": "Потужність",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "grease_guns_size_staple_rivet",
+    "label-uk_UA": "Розмір скоб / заклепок",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "grease_guns_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "grease_guns_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "grease_guns_voltage_battery",
+    "label-uk_UA": "Напруга АКБ",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "grease_guns_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "ground_clamps_cable_section_mm2",
+    "label-uk_UA": "Переріз кабелю, мм²",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "ground_clamps_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "ground_clamps_max_current_a",
+    "label-uk_UA": "Максимальний струм, А",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "ground_clamps_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hammers_mallets_handle_material",
+    "label-uk_UA": "Матеріал ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hammers_mallets_head_material",
+    "label-uk_UA": "Матеріал головки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hammers_mallets_total_length_mm",
+    "label-uk_UA": "Загальна довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hammers_mallets_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_planes_blade_width_mm",
+    "label-uk_UA": "Ширина ножа, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_planes_body_material",
+    "label-uk_UA": "Матеріал корпусу",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_planes_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_saws_blade_length_mm",
+    "label-uk_UA": "Довжина полотна, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_saws_blade_material",
+    "label-uk_UA": "Матеріал полотна",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_saws_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_screwdrivers_blade_length_mm",
+    "label-uk_UA": "Довжина жала, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_screwdrivers_handle_material",
+    "label-uk_UA": "Матеріал руків'я",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_screwdrivers_shaft_material",
+    "label-uk_UA": "Матеріал стрижня",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_screwdrivers_tip_size",
+    "label-uk_UA": "Розмір наконечника",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_screwdrivers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_tool_sets_case_type",
+    "label-uk_UA": "Тип кейса",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_tool_sets_items_count",
+    "label-uk_UA": "Кількість предметів у наборі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_tool_sets_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_tool_sets_set_composition",
+    "label-uk_UA": "Склад набору",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hand_tool_sets_tools_material",
+    "label-uk_UA": "Матеріал інструментів",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hole_saws_cut_depth_mm",
+    "label-uk_UA": "Глибина різання, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hole_saws_diameter_mm",
+    "label-uk_UA": "Діаметр, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hole_saws_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hole_saws_shank_type",
+    "label-uk_UA": "Тип хвостовика",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hole_saws_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hose_clamps_clamping_diameter_mm",
+    "label-uk_UA": "Діаметр затиску, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hose_clamps_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hose_clamps_pack_quantity",
+    "label-uk_UA": "Кількість в упаковці",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "hose_clamps_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "inverter_welders_diameter_electrode",
+    "label-uk_UA": "Діаметр електрода",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "inverter_welders_diameter_wire",
+    "label-uk_UA": "Діаметр дроту",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "inverter_welders_duty_cycle_max_current",
+    "label-uk_UA": "ПВ при максимальному струмі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "inverter_welders_power_consumed",
+    "label-uk_UA": "Потужність споживана",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "inverter_welders_range_current",
+    "label-uk_UA": "Діапазон струму",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "inverter_welders_type_cooling",
+    "label-uk_UA": "Тип охолодження",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "inverter_welders_type_welding",
+    "label-uk_UA": "Тип зварювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "inverter_welders_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "inverter_welders_welding_current",
+    "label-uk_UA": "Зварювальний струм (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "joint_cutters_depth_cut",
+    "label-uk_UA": "Глибина різу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "joint_cutters_diameter_disc",
+    "label-uk_UA": "Діаметр диска",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "joint_cutters_power",
+    "label-uk_UA": "Потужність",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "joint_cutters_type_fuel",
+    "label-uk_UA": "Тип палива",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "joint_cutters_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "joint_cutters_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lathes_max_size_workpiece",
+    "label-uk_UA": "Макс. розмір заготовки",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lathes_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lathes_size_working_table",
+    "label-uk_UA": "Розмір робочого столу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lathes_speed_rotation_spindle",
+    "label-uk_UA": "Швидкість обертання шпинделя",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lathes_type_machine",
+    "label-uk_UA": "Тип верстату",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lathes_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_height",
+    "label-uk_UA": "Висота (max)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_type_mounting",
+    "label-uk_UA": "Тип кріплення (різьба)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "level_tripods_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lubricants_form",
+    "label-uk_UA": "Форма випуску",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lubricants_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lubricants_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "lubricants_volume_ml",
+    "label-uk_UA": "Об'єм, мл",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "machine_accessories_accessory_type",
+    "label-uk_UA": "Тип аксесуара",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "machine_accessories_machine_compatibility",
+    "label-uk_UA": "Сумісність (тип верстата)",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "machine_accessories_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "machine_accessories_size",
+    "label-uk_UA": "Розмір/посадка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "magnifiers_lens_count",
+    "label-uk_UA": "Кількість лінз",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "magnifiers_lens_diameter_mm",
+    "label-uk_UA": "Діаметр лінзи, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "magnifiers_magnification",
+    "label-uk_UA": "Кратність збільшення",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "magnifiers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "manual_tile_cutters_coating",
+    "label-uk_UA": "Покриття",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "manual_tile_cutters_diagonal_cut",
+    "label-uk_UA": "Діагональ різу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "manual_tile_cutters_length_cut",
+    "label-uk_UA": "Довжина різу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "manual_tile_cutters_material_handle",
+    "label-uk_UA": "Матеріал ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "manual_tile_cutters_material_working_part",
+    "label-uk_UA": "Матеріал робочої частини",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "manual_tile_cutters_total_length",
+    "label-uk_UA": "Загальна довжина",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masking_tapes_length_roll",
+    "label-uk_UA": "Довжина в рулоні",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masking_tapes_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masking_tapes_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masking_tapes_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masking_tapes_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masking_tapes_width",
+    "label-uk_UA": "Ширина",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masking_tapes_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masonry_trowels_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masonry_trowels_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masonry_trowels_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masonry_trowels_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "masonry_trowels_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "material_shears_blade_material",
+    "label-uk_UA": "Матеріал леза",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "material_shears_max_cut_thickness_mm",
+    "label-uk_UA": "Максимальна товщина різу, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "material_shears_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "material_shears_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "measuring_wheels_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "measuring_wheels_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "measuring_wheels_diameter_wheel",
+    "label-uk_UA": "Діаметр колеса",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "measuring_wheels_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "measuring_wheels_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "measuring_wheels_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "measuring_wheels_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "measuring_wheels_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "micrometers_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "micrometers_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "micrometers_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "micrometers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "micrometers_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "micrometers_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "micrometers_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "micrometers_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_diameter_electrode",
+    "label-uk_UA": "Діаметр електрода",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_diameter_wire",
+    "label-uk_UA": "Діаметр дроту",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_duty_cycle_max_current",
+    "label-uk_UA": "ПВ при максимальному струмі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_power_consumed",
+    "label-uk_UA": "Потужність споживана",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_range_current",
+    "label-uk_UA": "Діапазон струму",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_speed_feed_wire",
+    "label-uk_UA": "Швидкість подачі дроту",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_type_cooling",
+    "label-uk_UA": "Тип охолодження",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_type_welding",
+    "label-uk_UA": "Тип зварювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mig_welders_welding_current",
+    "label-uk_UA": "Зварювальний струм (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "milling_machines_max_size_workpiece",
+    "label-uk_UA": "Макс. розмір заготовки",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "milling_machines_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "milling_machines_size_working_table",
+    "label-uk_UA": "Розмір робочого столу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "milling_machines_speed_rotation_spindle",
+    "label-uk_UA": "Швидкість обертання шпинделя",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "milling_machines_type_machine",
+    "label-uk_UA": "Тип верстату",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "milling_machines_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "miter_boxes_length_mm",
+    "label-uk_UA": "Довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "miter_boxes_miter_angles",
+    "label-uk_UA": "Кути різу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "miter_boxes_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mounting_tapes_backing",
+    "label-uk_UA": "Основа",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mounting_tapes_length_m",
+    "label-uk_UA": "Довжина, м",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mounting_tapes_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "mounting_tapes_width_mm",
+    "label-uk_UA": "Ширина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multimeters_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multimeters_category_safety",
+    "label-uk_UA": "Категорія безпеки (CAT)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multimeters_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multimeters_measurement",
+    "label-uk_UA": "Вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multimeters_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multimeters_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multimeters_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multimeters_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multimeters_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multitool_blades_mount_type",
+    "label-uk_UA": "Тип кріплення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multitool_blades_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multitool_blades_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "multitool_blades_width_mm",
+    "label-uk_UA": "Ширина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_brushes_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_brushes_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_brushes_shape_brush",
+    "label-uk_UA": "Форма пензля",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_brushes_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_brushes_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_mixers_diameter_mm",
+    "label-uk_UA": "Діаметр, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_mixers_length_mm",
+    "label-uk_UA": "Довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_mixers_mount_type",
+    "label-uk_UA": "Тип кріплення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_mixers_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_mixers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_rollers_diameter_roller",
+    "label-uk_UA": "Діаметр валика",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_rollers_length_bristle",
+    "label-uk_UA": "Довжина ворсу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_rollers_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_rollers_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_rollers_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_rollers_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_trays_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_trays_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_trays_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "paint_trays_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "petrol_cut_off_saws_cut_depth_mm",
+    "label-uk_UA": "Глибина різу, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "petrol_cut_off_saws_disc_diameter_mm",
+    "label-uk_UA": "Діаметр диска, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "petrol_cut_off_saws_engine_power_kw",
+    "label-uk_UA": "Потужність двигуна, кВт",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "petrol_cut_off_saws_engine_volume_cc",
+    "label-uk_UA": "Об'єм двигуна, см³",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "petrol_cut_off_saws_start_type",
+    "label-uk_UA": "Тип запуску",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "planer_blades_length_mm",
+    "label-uk_UA": "Довжина, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "planer_blades_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "planer_blades_set_quantity",
+    "label-uk_UA": "Кількість в наборі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "planer_blades_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_diameter_electrode",
+    "label-uk_UA": "Діаметр електрода",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_diameter_wire",
+    "label-uk_UA": "Діаметр дроту",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_duty_cycle_max_current",
+    "label-uk_UA": "ПВ при максимальному струмі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_max_thickness_cut",
+    "label-uk_UA": "Макс. товщина різу (сталь)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_power_consumed",
+    "label-uk_UA": "Потужність споживана",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_range_current",
+    "label-uk_UA": "Діапазон струму",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_type_cooling",
+    "label-uk_UA": "Тип охолодження",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_type_welding",
+    "label-uk_UA": "Тип зварювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plasma_cutters_welding_current",
+    "label-uk_UA": "Зварювальний струм (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plastering_floats_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plastering_floats_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plastering_floats_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plastering_floats_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plate_compactors_depth_compaction",
+    "label-uk_UA": "Глибина ущільнення",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plate_compactors_mass_plate",
+    "label-uk_UA": "Маса плити",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plate_compactors_number_speed_drum",
+    "label-uk_UA": "К-сть обертів барабана",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plate_compactors_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plate_compactors_type_drive",
+    "label-uk_UA": "Тип приводу",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plate_compactors_type_fuel",
+    "label-uk_UA": "Тип палива",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plate_compactors_useful_volume",
+    "label-uk_UA": "Корисний об'єм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plate_compactors_volume_drum_bit",
+    "label-uk_UA": "Об'єм барабана/буру",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "plate_compactors_working_width",
+    "label-uk_UA": "Робоча ширина",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pliers_cutters_jaw_type",
+    "label-uk_UA": "Тип губок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pliers_cutters_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pliers_cutters_total_length_mm",
+    "label-uk_UA": "Загальна довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pliers_cutters_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pliers_sets_case_type",
+    "label-uk_UA": "Тип кейса",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pliers_sets_items_count",
+    "label-uk_UA": "Кількість предметів у наборі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pliers_sets_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pliers_sets_set_composition",
+    "label-uk_UA": "Склад набору",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "power_tool_parts_compatibility",
+    "label-uk_UA": "Сумісність (бренд/модель)",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "power_tool_parts_part_type",
+    "label-uk_UA": "Тип запчастини",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "power_tool_parts_tool_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pry_bars_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pry_bars_profile",
+    "label-uk_UA": "Профіль",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pry_bars_total_length_mm",
+    "label-uk_UA": "Загальна довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pry_bars_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "punches_centerpunches_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "punches_centerpunches_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "punches_centerpunches_working_diameter_mm",
+    "label-uk_UA": "Діаметр робочої частини, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "putty_knives_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "putty_knives_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "putty_knives_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "putty_knives_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "putty_knives_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pyrometers_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pyrometers_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pyrometers_optical_ratio",
+    "label-uk_UA": "Оптичне співвідношення (D:S)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pyrometers_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pyrometers_temperature_range",
+    "label-uk_UA": "Температурний діапазон",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pyrometers_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pyrometers_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pyrometers_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "pyrometers_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "ratchets_drive_size",
+    "label-uk_UA": "Розмір квадрата",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "ratchets_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "ratchets_teeth_count",
+    "label-uk_UA": "Кількість зубів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "ratchets_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "refractometers_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "refractometers_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "refractometers_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "refractometers_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "refractometers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "refractometers_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "refractometers_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "refractometers_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "refractometers_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "riveters_rivet_diameter_mm",
+    "label-uk_UA": "Діаметр заклепок, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "riveters_rivet_type",
+    "label-uk_UA": "Тип заклепок",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "riveters_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "roller_frames_length",
+    "label-uk_UA": "Довжина",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "roller_frames_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "roller_frames_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "roller_frames_type_fit",
+    "label-uk_UA": "Тип посадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "roller_frames_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "roller_frames_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "router_bits_cutting_diameter_mm",
+    "label-uk_UA": "Робочий діаметр, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "router_bits_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "router_bits_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "router_bits_shank_diameter_mm",
+    "label-uk_UA": "Діаметр хвостовика, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "router_bits_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "saw_blades_length_mm",
+    "label-uk_UA": "Довжина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "saw_blades_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "saw_blades_shank_type",
+    "label-uk_UA": "Тип хвостовика",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "saw_blades_tpi",
+    "label-uk_UA": "Кількість зубів на дюйм (TPI)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "saw_blades_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scaffolding_towers_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scaffolding_towers_max_load",
+    "label-uk_UA": "Макс. навантаження",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scaffolding_towers_max_working_height",
+    "label-uk_UA": "Макс. робоча висота",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scaffolding_towers_number_sections",
+    "label-uk_UA": "К-сть секцій",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scaffolding_towers_number_steps",
+    "label-uk_UA": "К-сть сходинок (на секцію)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scaffolding_towers_size_working_platform",
+    "label-uk_UA": "Розмір робочого майданчика",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scaffolding_towers_type_design",
+    "label-uk_UA": "Тип конструкції",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scrapers_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scrapers_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scrapers_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "scrapers_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "screeding_rules_length_m",
+    "label-uk_UA": "Довжина, м",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "screeding_rules_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "screeding_rules_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "screwdriver_bits_length_mm",
+    "label-uk_UA": "Довжина, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "screwdriver_bits_set_quantity",
+    "label-uk_UA": "Кількість в наборі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "screwdriver_bits_shank_type",
+    "label-uk_UA": "Тип хвостовика",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "screwdriver_bits_tip_size",
+    "label-uk_UA": "Розмір наконечника",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "screwdriver_bits_tip_type",
+    "label-uk_UA": "Тип наконечника",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sharpening_machines_type_machine",
+    "label-uk_UA": "Тип верстату",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "smoothing_trowels_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "smoothing_trowels_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "smoothing_trowels_tooth",
+    "label-uk_UA": "Зубчик (мм)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "smoothing_trowels_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "smoothing_trowels_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "socket_wrenches_form",
+    "label-uk_UA": "Форма",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "socket_wrenches_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "socket_wrenches_profile",
+    "label-uk_UA": "Профіль",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "socket_wrenches_size",
+    "label-uk_UA": "Розмір",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "socket_wrenches_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sockets_and_bars_drive_size",
+    "label-uk_UA": "Розмір квадрата",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sockets_and_bars_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sockets_and_bars_profile",
+    "label-uk_UA": "Профіль",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sockets_and_bars_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "soldering_consumables_composition",
+    "label-uk_UA": "Склад",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "soldering_consumables_diameter_mm",
+    "label-uk_UA": "Діаметр, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "soldering_consumables_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "soldering_consumables_weight_volume",
+    "label-uk_UA": "Вага/об'єм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "spanner_wrenches_coating",
+    "label-uk_UA": "Покриття",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "spanner_wrenches_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "spanner_wrenches_profile",
+    "label-uk_UA": "Профіль",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "spanner_wrenches_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "spanner_wrenches_wrench_size_mm",
+    "label-uk_UA": "Розмір під ключ, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "special_wrenches_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "special_wrenches_torque_range_nm",
+    "label-uk_UA": "Діапазон моменту, Нм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "special_wrenches_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "special_wrenches_wrench_size_mm",
+    "label-uk_UA": "Розмір під ключ, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "spike_rollers_material_bristle_attachments",
+    "label-uk_UA": "Матеріал ворсу/насадки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "spike_rollers_purpose_material",
+    "label-uk_UA": "Призначення матеріалу",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "spike_rollers_type_handle",
+    "label-uk_UA": "Тип ручки",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "spike_rollers_width_working_part",
+    "label-uk_UA": "Ширина робочої частини",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sprayer_accessories_diameter_nozzle",
+    "label-uk_UA": "Діаметр сопла",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sprayer_accessories_position_tank",
+    "label-uk_UA": "Розташування бачка",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sprayer_accessories_type_accessory",
+    "label-uk_UA": "Тип аксесуара",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sprayer_accessories_type_spray",
+    "label-uk_UA": "Тип розпилення (HVLP/LVLP)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "sprayer_accessories_volume_tank",
+    "label-uk_UA": "Об'єм бачка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "staple_guns_compatible_consumables",
+    "label-uk_UA": "Сумісні витратні матеріали",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "staple_guns_fastener_size_range_mm",
+    "label-uk_UA": "Діапазон розміру скоби/цвяха, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "staple_guns_staple_type",
+    "label-uk_UA": "Тип скоб",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "staple_guns_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "staples_leg_length_mm",
+    "label-uk_UA": "Довжина ніжки, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "staples_pack_quantity",
+    "label-uk_UA": "Кількість в упаковці",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "staples_staple_type",
+    "label-uk_UA": "Тип скоб",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "staples_width_mm",
+    "label-uk_UA": "Ширина, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "step_ladders_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "step_ladders_max_load",
+    "label-uk_UA": "Макс. навантаження",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "step_ladders_max_working_height",
+    "label-uk_UA": "Макс. робоча висота",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "step_ladders_number_sections",
+    "label-uk_UA": "К-сть секцій",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "step_ladders_number_steps",
+    "label-uk_UA": "К-сть сходинок (на секцію)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "step_ladders_type_design",
+    "label-uk_UA": "Тип конструкції",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "table_saws_depth_cut",
+    "label-uk_UA": "Глибина різу 90°",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "table_saws_diameter_disc",
+    "label-uk_UA": "Діаметр диска",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "table_saws_max_size_workpiece",
+    "label-uk_UA": "Макс. розмір заготовки",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "table_saws_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "table_saws_size_working_table",
+    "label-uk_UA": "Розмір робочого столу",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "table_saws_speed_rotation_spindle",
+    "label-uk_UA": "Швидкість обертання шпинделя",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "table_saws_type_machine",
+    "label-uk_UA": "Тип верстату",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "table_saws_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tape_measures_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tape_measures_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tape_measures_length",
+    "label-uk_UA": "Довжина",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tape_measures_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tape_measures_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tape_measures_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tape_measures_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tape_measures_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tape_measures_width_belt",
+    "label-uk_UA": "Ширина стрічки (для рулеток)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "taps_and_dies_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "taps_and_dies_thread_pitch_mm",
+    "label-uk_UA": "Крок різьби, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "taps_and_dies_thread_size",
+    "label-uk_UA": "Розмір різьби",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "taps_and_dies_thread_standard",
+    "label-uk_UA": "Стандарт різьби",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "taps_and_dies_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thermal_knives_power",
+    "label-uk_UA": "Потужність",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thermal_knives_temperature_range",
+    "label-uk_UA": "Температурний діапазон",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thermal_knives_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thermal_knives_voltage_mains",
+    "label-uk_UA": "Напруга мережі",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thickness_gauges_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thickness_gauges_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thickness_gauges_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thickness_gauges_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thickness_gauges_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thickness_gauges_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thickness_gauges_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "thickness_gauges_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tile_spacers_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tile_spacers_number_pack",
+    "label-uk_UA": "К-сть в упаковці",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tile_spacers_size",
+    "label-uk_UA": "Розмір (шов)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tile_spacers_type_product",
+    "label-uk_UA": "Тип товару",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tiling_accessories_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tiling_accessories_number_pack",
+    "label-uk_UA": "К-сть в упаковці",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tiling_accessories_size",
+    "label-uk_UA": "Розмір (шов)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tiling_accessories_type_product",
+    "label-uk_UA": "Тип товару",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_bags_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_bags_pockets_count",
+    "label-uk_UA": "Кількість кишень",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_bags_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_cases_compartments_count",
+    "label-uk_UA": "Кількість відділень",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_cases_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_cases_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_holders_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_holders_mounting_method",
+    "label-uk_UA": "Спосіб кріплення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_holders_slots_count",
+    "label-uk_UA": "Кількість гачків/комірок",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "tool_holders_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "try_squares_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "try_squares_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "try_squares_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "try_squares_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "try_squares_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "try_squares_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "try_squares_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "try_squares_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "utility_blades_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "utility_blades_pack_quantity",
+    "label-uk_UA": "Кількість в упаковці",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "utility_blades_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "utility_blades_width_mm",
+    "label-uk_UA": "Ширина, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "utility_knives_blade_width_mm",
+    "label-uk_UA": "Ширина леза, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "utility_knives_handle_material",
+    "label-uk_UA": "Матеріал руків'я",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "utility_knives_locking_mechanism",
+    "label-uk_UA": "Механізм фіксації",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "utility_knives_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "vibrator_pokers_number_speed_drum",
+    "label-uk_UA": "К-сть обертів барабана",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "vibrator_pokers_power_engine",
+    "label-uk_UA": "Потужність двигуна",
+    "type": "pim_catalog_text",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "vibrator_pokers_type_drive",
+    "label-uk_UA": "Тип приводу",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "vibrator_pokers_useful_volume",
+    "label-uk_UA": "Корисний об'єм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "vibrator_pokers_volume_drum_bit",
+    "label-uk_UA": "Об'єм барабана/буру",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_cables_conductor_material",
+    "label-uk_UA": "Матеріал жили",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_cables_length_m",
+    "label-uk_UA": "Довжина, м",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_cables_max_current_a",
+    "label-uk_UA": "Максимальний струм, А",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_cables_section_mm2",
+    "label-uk_UA": "Переріз, мм²",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_electrodes_coating_type",
+    "label-uk_UA": "Тип покриття",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_electrodes_diameter_mm",
+    "label-uk_UA": "Діаметр, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_electrodes_grade",
+    "label-uk_UA": "Марка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_electrodes_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_nozzles_diameter_mm",
+    "label-uk_UA": "Діаметр, мм",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_nozzles_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_nozzles_torch_compatibility",
+    "label-uk_UA": "Сумісність (пальник)",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_nozzles_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_protection_power_supply",
+    "label-uk_UA": "Живлення (для хамелеона)",
+    "type": "pim_catalog_simpleselect",
+    "group": "power_supply",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_protection_range_shade",
+    "label-uk_UA": "Діапазон затемнення (DIN)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_protection_time_response",
+    "label-uk_UA": "Час спрацювання (для хамелеона)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_protection_type_glass",
+    "label-uk_UA": "Тип скла",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_wire_diameter_mm",
+    "label-uk_UA": "Діаметр, мм",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_wire_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_wire_purpose",
+    "label-uk_UA": "Призначення",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_wire_spool_weight_kg",
+    "label-uk_UA": "Маса котушки, кг",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "welding_wire_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_brushes_bristle_material",
+    "label-uk_UA": "Матеріал ворсу",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_brushes_handle_material",
+    "label-uk_UA": "Матеріал ручки",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_brushes_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_detectors_accuracy",
+    "label-uk_UA": "Точність / похибка",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_detectors_class_protection_ip",
+    "label-uk_UA": "Клас захисту IP",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_detectors_depth_detection",
+    "label-uk_UA": "Глибина виявлення (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_detectors_range_measurement",
+    "label-uk_UA": "Діапазон вимірювання (макс)",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_detectors_type_battery",
+    "label-uk_UA": "Тип батарейок",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_detectors_type_display",
+    "label-uk_UA": "Тип дисплея",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_detectors_type_power_supply",
+    "label-uk_UA": "Тип живлення",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_detectors_units_measurement",
+    "label-uk_UA": "Одиниці вимірювання",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_strippers_gauges_count",
+    "label-uk_UA": "Кількість калібрів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_strippers_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_strippers_section_range_mm2",
+    "label-uk_UA": "Діапазон перерізу, мм²",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wire_strippers_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wood_sanders_stationary_type_machine",
+    "label-uk_UA": "Тип верстату",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "workbenches_drawers_count",
+    "label-uk_UA": "Кількість шухляд",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "workbenches_max_load_kg",
+    "label-uk_UA": "Максимальне навантаження, кг",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "workbenches_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "workbenches_worktop_material",
+    "label-uk_UA": "Матеріал стільниці",
+    "type": "pim_catalog_simpleselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wrench_sets_case_type",
+    "label-uk_UA": "Тип кейса",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wrench_sets_items_count",
+    "label-uk_UA": "Кількість предметів у наборі",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wrench_sets_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "wrench_sets_size_range",
+    "label-uk_UA": "Діапазон розмірів",
+    "type": "pim_catalog_text",
+    "group": "main_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "furniture_body_materials",
+    "label-uk_UA": "Матеріал корпусу",
+    "type": "pim_catalog_multiselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "furniture_wardrobe_view",
+    "label-uk_UA": "Вид шафи",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "women_bags_type",
+    "label-uk_UA": "Тип",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "women_bags_size",
+    "label-uk_UA": "Розмірна категорія",
+    "type": "pim_catalog_simpleselect",
+    "group": "size",
+    "guidelines-ru_RU": "Якщо довжина виробу до 25 см - обирай Маленька\nЯкщо довжина виробу 25-35 см - обирай Середня\nЯкщо довжина виробу 35 см і більша  - обирай Велика"
+  },
+  {
+    "code": "women_bags_closure_type",
+    "label-uk_UA": "Застібка",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "women_bags_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clutches_carrying_type",
+    "label-uk_UA": "Спосіб носіння",
+    "type": "pim_catalog_simpleselect",
+    "group": "main",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clutches_closure_type",
+    "label-uk_UA": "Застібка",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "clutches_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "beach_bags_size",
+    "label-uk_UA": "Розмір",
+    "type": "pim_catalog_simpleselect",
+    "group": "size",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "beach_bags_closure_type",
+    "label-uk_UA": "Застібка",
+    "type": "pim_catalog_simpleselect",
+    "group": "physical_characteristics",
+    "guidelines-ru_RU": ""
+  },
+  {
+    "code": "beach_bags_material",
+    "label-uk_UA": "Матеріал",
+    "type": "pim_catalog_multiselect",
+    "group": "physical_characteristics",
     "guidelines-ru_RU": ""
   }
 ]
